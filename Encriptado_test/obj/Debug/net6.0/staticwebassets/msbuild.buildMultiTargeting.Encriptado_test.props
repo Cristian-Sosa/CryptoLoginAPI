@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Encriptado_test.props" />
+</Project>
